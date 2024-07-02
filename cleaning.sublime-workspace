@@ -1,0 +1,1947 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"HTMLTableC",
+				"HTMLTableCellElement"
+			],
+			[
+				"re",
+				"resizeCol"
+			],
+			[
+				"que",
+				"querySelector"
+			],
+			[
+				"HTMLTA",
+				"HTMLTableCellElement"
+			],
+			[
+				"after",
+				"afterend"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"de",
+				"details"
+			],
+			[
+				"col",
+				"COLUMN_NAMES"
+			],
+			[
+				"--theme",
+				"--theme-primary"
+			],
+			[
+				"f",
+				"firstName"
+			],
+			[
+				"getEle",
+				"getElementsByClassName"
+			],
+			[
+				"statu",
+				"statusElement"
+			],
+			[
+				"append",
+				"appendChild"
+			],
+			[
+				"status",
+				"statusElement"
+			],
+			[
+				"crea",
+				"createElement"
+			],
+			[
+				"app",
+				"appendChild"
+			],
+			[
+				"appedn",
+				"appendChild"
+			],
+			[
+				"cre",
+				"createElement"
+			],
+			[
+				"Document",
+				"DocumentFragment"
+			],
+			[
+				"DOcument",
+				"DocumentFragment"
+			],
+			[
+				"Move",
+				"MoveRow"
+			],
+			[
+				"new",
+				"newModel"
+			],
+			[
+				"sele",
+				"select/col"
+			],
+			[
+				"setimt",
+				"setTimeout"
+			],
+			[
+				"model",
+				"Model"
+			],
+			[
+				"yello",
+				"yellow"
+			],
+			[
+				"Cur",
+				"CursorRemoveAll"
+			],
+			[
+				"selec",
+				"selected"
+			],
+			[
+				"res",
+				"resize/row"
+			],
+			[
+				"Resie",
+				"ResizeCol"
+			],
+			[
+				"Curs",
+				"CursorModel"
+			],
+			[
+				"Cu",
+				"CursorPlace"
+			],
+			[
+				"Select",
+				"SelectCancel"
+			],
+			[
+				"Sele",
+				"SelectModel"
+			],
+			[
+				"Resize",
+				"ResizeRow"
+			],
+			[
+				"creat",
+				"createStore"
+			],
+			[
+				"Axis",
+				"AxisResizeRow"
+			],
+			[
+				"Cre",
+				"CreateMessage"
+			],
+			[
+				"Selec",
+				"SelectionMake"
+			],
+			[
+				"s",
+				"selection"
+			],
+			[
+				"in",
+				"interface"
+			],
+			[
+				"scrollbar-",
+				"scrollbar-width"
+			],
+			[
+				"--",
+				"--theme-secondary-bg"
+			],
+			[
+				"scro",
+				"scrollbar-width"
+			],
+			[
+				"--the",
+				"--theme-secondary-bg"
+			],
+			[
+				"flex-",
+				"flex-direction"
+			],
+			[
+				"buid",
+				"builder"
+			],
+			[
+				"b",
+				"builder"
+			],
+			[
+				"ini",
+				"initView"
+			],
+			[
+				"Docu",
+				"DocumentFragment"
+			],
+			[
+				"cell",
+				"cellArray"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"replac",
+				"replaceChildren"
+			],
+			[
+				"Docume",
+				"DocumentFragment"
+			],
+			[
+				"ins",
+				"instanceof"
+			],
+			[
+				"cus",
+				"cursor"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"dat",
+				"dataEdge"
+			],
+			[
+				"n",
+				":nth-of-type()"
+			],
+			[
+				"parse",
+				"parseInt"
+			],
+			[
+				"tab",
+				"tableWidth"
+			],
+			[
+				"HTMLDi",
+				"HTMLDivElement"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"site",
+				"SiteTheme"
+			],
+			[
+				"m",
+				"mocha"
+			],
+			[
+				"cat",
+				"catppucinToSiteTheme"
+			],
+			[
+				"add",
+				"addTheme"
+			],
+			[
+				"Theme",
+				"ThemeGroup"
+			],
+			[
+				"defa",
+				"defaultTheme"
+			],
+			[
+				"Pa",
+				"Partial"
+			],
+			[
+				"ma",
+				"mauve"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"Ca",
+				"CatppuccinFlavor"
+			],
+			[
+				"a",
+				"mirage"
+			],
+			[
+				"moc",
+				"macchiato"
+			],
+			[
+				"them",
+				"themeMap"
+			],
+			[
+				"c",
+				"currentTheme"
+			],
+			[
+				"toggl",
+				"toggleTheme"
+			],
+			[
+				"cur",
+				"currentTheme"
+			],
+			[
+				"thee",
+				"themeControl"
+			],
+			[
+				"theme",
+				"themeMap"
+			],
+			[
+				"togg",
+				"toggleTheme"
+			],
+			[
+				"Cat",
+				"CatppuccinFlavor"
+			],
+			[
+				"get",
+				"getPropertyValue"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"--color",
+				"--color-dark-base"
+			],
+			[
+				"grid-temp",
+				"grid-template-areas"
+			],
+			[
+				"grid-row-",
+				"grid-row-gap"
+			],
+			[
+				"grid-tem",
+				"grid-template-areas"
+			],
+			[
+				"grid-col",
+				"grid-column"
+			],
+			[
+				"min",
+				"min-content"
+			],
+			[
+				"--c",
+				"--ctp-mocha-mauve"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"spa",
+				"space-around"
+			],
+			[
+				"--ca",
+				"--ctp-mocha-mauve"
+			],
+			[
+				"color",
+				"color"
+			],
+			[
+				"wdi",
+				"width"
+			],
+			[
+				"border-ra",
+				"border-radius"
+			],
+			[
+				"margin-b",
+				"margin-bottom"
+			],
+			[
+				"padding-b",
+				"padding-bottom"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"grid-te",
+				"grid-template-columns"
+			],
+			[
+				"first-l",
+				"::first-letter"
+			],
+			[
+				"text-tan",
+				"text-transform"
+			],
+			[
+				"--ctp",
+				"--ctp-mocha-text"
+			],
+			[
+				"--ctp-su",
+				"--ctp-mocha-subtext0"
+			],
+			[
+				"--co",
+				"--color-white"
+			],
+			[
+				"Jav",
+				"JavaScript"
+			],
+			[
+				"assertE",
+				"assertExists"
+			],
+			[
+				"ass",
+				"assertEquals"
+			],
+			[
+				"asse",
+				"import { assertFp$1 } from \"https://jsr.io/@std/internal/1.0.0/mod.ts\";"
+			],
+			[
+				"mu",
+				"multiplier"
+			],
+			[
+				"mult",
+				"multiplier"
+			],
+			[
+				"expo",
+				"exponentiate"
+			],
+			[
+				"fn",
+				"fn(t) {\n  $0\n},"
+			],
+			[
+				"di",
+				"divisor"
+			],
+			[
+				"sub",
+				"subtrahend"
+			],
+			[
+				"mul",
+				"multiplier"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"font-z",
+				"font-size"
+			],
+			[
+				"ctp-latt",
+				"--ctp-latte-red"
+			],
+			[
+				"border-b",
+				"border-bottom"
+			],
+			[
+				"box-s",
+				"box-sizing"
+			],
+			[
+				"--ctp-latte-s",
+				"--ctp-latte-sky"
+			],
+			[
+				"grid-rw",
+				"grid-row"
+			],
+			[
+				"gridcol",
+				"grid-column"
+			],
+			[
+				"grid-templ",
+				"grid-template-rows"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pro",
+				"Project: Save As"
+			],
+			[
+				"restar",
+				"LSP: Restart Server"
+			],
+			[
+				"renam",
+				"LSP: Rename"
+			],
+			[
+				"r",
+				"LSP: Rename"
+			],
+			[
+				"rena",
+				"LSP: Rename"
+			],
+			[
+				"lsp res",
+				"LSP: Troubleshoot Server"
+			],
+			[
+				"lsp-ty",
+				"Preferences: LSP-typescript Settings"
+			],
+			[
+				"edit ",
+				"Project: Edit Project"
+			],
+			[
+				"dis",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"theme",
+				"UI: Customize Color Scheme"
+			],
+			[
+				"js",
+				"JsPrettier: Format Code"
+			],
+			[
+				"jspe",
+				"JsPrettier: Format Code"
+			],
+			[
+				"jspre",
+				"JsPrettier: Format Code"
+			],
+			[
+				"jsp",
+				"Preferences: JsPrettier Settings - User"
+			],
+			[
+				"jspr",
+				"Preferences: JsPrettier Settings - User"
+			],
+			[
+				"lsp-h",
+				"Preferences: LSP-html Settings"
+			],
+			[
+				"disa",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"save ",
+				"Project: Save As"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"lsp-html",
+				"Preferences: LSP-html Settings"
+			],
+			[
+				"lsp sett",
+				"Preferences: LSP Settings"
+			],
+			[
+				"ena",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"disable ",
+				"LSP: Disable Language Server Globally"
+			],
+			[
+				"enab",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"csv",
+				"CSV: Justify columns"
+			],
+			[
+				"langua",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"new",
+				"File: New File"
+			],
+			[
+				"edit",
+				"Project: Edit Project"
+			],
+			[
+				"ar",
+				"Arithmetic"
+			],
+			[
+				"ari",
+				"Arithmetic"
+			],
+			[
+				"proed",
+				"Project: Edit Project"
+			],
+			[
+				"project ed",
+				"Project: Edit Project"
+			],
+			[
+				"project",
+				"Project: Edit Project"
+			],
+			[
+				"disab",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"LSP ena",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"lsp to",
+				"LSP: Toggle Diagnostics Panel"
+			],
+			[
+				"lsp ",
+				"LSP: Toggle Log Panel"
+			],
+			[
+				"proec",
+				"Project: Save As"
+			],
+			[
+				"project ",
+				"Project: Refresh Folders"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"settin",
+				"Preferences: Settings"
+			],
+			[
+				"enable ls",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"lsp",
+				"LSP: Disable Language Server Globally"
+			],
+			[
+				"lsp ren",
+				"LSP: Rename"
+			],
+			[
+				"lsp deno",
+				"Preferences: LSP-Deno Settings"
+			],
+			[
+				"form",
+				"LSP: Format File"
+			],
+			[
+				"lsp for",
+				"LSP: Format File"
+			],
+			[
+				"lsp form",
+				"LSP: Format File"
+			],
+			[
+				"inla",
+				"LSP: Toggle Inlay Hints"
+			],
+			[
+				"lsp hin",
+				"LSP: Toggle Inlay Hints"
+			],
+			[
+				"lsp ena",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"lsp dis",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"projec",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"lsp enab",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"lsp re",
+				"LSP: Restart Server"
+			],
+			[
+				"lsp star",
+				"LSP: Restart Server"
+			],
+			[
+				"lsp stop",
+				"LSP: Toggle Log Panel"
+			],
+			[
+				"LSP tail",
+				"Preferences: LSP-tailwindcss Settings"
+			],
+			[
+				"LSP",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"prettier",
+				"JsPrettier: Format Code"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"auto",
+				"AutoHotkey - Run"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"colors",
+				"UI: Select Color Scheme"
+			],
+			[
+				"organ",
+				"LSP-typescript: Organize Imports"
+			],
+			[
+				"sort impo",
+				"LSP-typescript: Organize Imports"
+			],
+			[
+				"LSP Stop",
+				"LSP-typescript: Organize Imports"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"type",
+				"Preferences: LSP-typescript Settings"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"typesc",
+				"Preferences: LSP-typescript Settings"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"selec",
+				"UI: Select Color Scheme"
+			],
+			[
+				"seleccol",
+				"UI: Select Color Scheme"
+			],
+			[
+				"cust",
+				"UI: Customize Color Scheme"
+			],
+			[
+				"packins",
+				"Package Control: Install Package"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"fold",
+				"Code Folding: Fold All"
+			],
+			[
+				"folda",
+				"Code Folding: Fold All"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"ui",
+				"UI: Select Theme"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"color sch",
+				"UI: Customize Color Scheme"
+			],
+			[
+				"live",
+				"Live Server: Start"
+			],
+			[
+				"rename",
+				"Rename File"
+			],
+			[
+				"lives",
+				"Live Server: Open In Browser"
+			],
+			[
+				"togg",
+				"NeoVintageous: Toggle"
+			],
+			[
+				"install",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"a",
+				"Arithmetic"
+			],
+			[
+				"rust analyste",
+				"LSP-rust-analyzer: View Syntax Tree"
+			],
+			[
+				"rust",
+				"Rust: Popup Message At Cursor"
+			],
+			[
+				"packag",
+				"Package Control: List Packages"
+			],
+			[
+				"package lis",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Add Channel"
+			],
+			[
+				"distr",
+				"View: Toggle Distraction Free"
+			],
+			[
+				"full",
+				"View: Toggle Full Screen"
+			],
+			[
+				"to",
+				"NeoVintageous: Toggle"
+			],
+			[
+				"toggle",
+				"NeoVintageous: Toggle"
+			],
+			[
+				"toggle v",
+				"NeoVintageous: Toggle"
+			],
+			[
+				"neovin",
+				"NeoVintageous: Toggle"
+			],
+			[
+				"neo",
+				"Preferences: NeoVintageous Settings"
+			],
+			[
+				"prefere",
+				"Preferences: Key Bindings"
+			],
+			[
+				"side",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"REPL:Node",
+				"SublimeREPL: Node"
+			],
+			[
+				"REPL",
+				"SublimeREPL: Haskell"
+			],
+			[
+				"pref",
+				"Preferences: LSP-typescript Settings"
+			],
+			[
+				"prefer",
+				"Preferences: LSP-typescript Settings"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 429.0,
+		"history":
+		[
+			"toggle log panel"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/coding/projects/nicn/cleaning"
+	],
+	"file_history":
+	[
+		"/D/coding/sandbox/designs/fluid-table/index.html",
+		"/D/coding/sandbox/designs/fluid-table/src/scripts/mock-table.ts",
+		"/D/coding/sandbox/designs/fluid-table/src/main.ts",
+		"/D/coding/sandbox/designs/fluid-table/src/styles/landing/demo.css",
+		"/D/coding/sandbox/designs/fluid-table/src/scripts/utilities.ts",
+		"/D/coding/sandbox/designs/fluid-table/src/scripts/utilities",
+		"/D/coding/sandbox/designs/fluid-table/src/styles/landing.css",
+		"/D/coding/sandbox/designs/fluid-table/src/styles/landing/main.css",
+		"/D/coding/sandbox/designs/fluid-table/src/scripts/theme.ts",
+		"/D/coding/sandbox/designs/fluid-table/src/styles/landing/theatre.css",
+		"/D/coding/sandbox/designs/fluid-table/node_modules/@catppuccin/palette/css/catppuccin.css",
+		"/D/coding/sandbox/designs/fluid-table/fluid-table.sublime-project",
+		"/D/coding/sandbox/designs/fluid-table/src/styles/landing/navbar.css",
+		"/D/coding/sandbox/designs/fluid-table/src/styles/landing/hero.css",
+		"/D/coding/sandbox/designs/fluid-table/src/style.css",
+		"/D/coding/sandbox/designs/fluid-table/src/styles/base.css",
+		"/D/coding/sandbox/designs/fluid-table/src/scripts/update.ts",
+		"/D/coding/sandbox/designs/fluid-table/src/scripts/model.ts",
+		"/D/coding/sandbox/designs/fluid-table/src/scripts/view.ts",
+		"/D/coding/sandbox/designs/fluid-table/src/scripts/render.ts",
+		"/D/coding/sandbox/designs/fluid-table/src/scripts/table.ts",
+		"/D/coding/sandbox/designs/fluid-table/src/scripts/message.ts",
+		"/D/coding/sandbox/designs/fluid-table/src/scripts/types.ts",
+		"/D/coding/sandbox/designs/fluid-table/src/scripts/utilities/array.ts",
+		"/D/coding/sandbox/designs/fluid-table/package.json",
+		"/D/coding/sandbox/designs/fluid-table/tsconfig.json",
+		"/D/coding/sandbox/designs/fluid-table/node_modules/picocolors/types.ts",
+		"/D/coding/sandbox/designs/fluid-table/src/utilities/array.ts",
+		"/D/coding/sandbox/designs/fluid-table/src/table.ts",
+		"/D/coding/projects/dtms/tsconfig.json",
+		"/D/coding/sandbox/designs/fluid-table/src/types.ts",
+		"/D/coding/sandbox/designs/fluid-table/src/utilities/random.ts",
+		"/D/coding/dsa/algorithms/src/utilities/array.ts",
+		"/D/coding/dsa/algorithms/src/utilities/random.ts",
+		"/D/coding/sandbox/designs/fluid-table/src/scripts/themes/site-theme.ts",
+		"/D/coding/sandbox/designs/fluid-table/src/scripts/themes/catppuccin.ts",
+		"/D/coding/sandbox/designs/fluid-table/src/scripts/catppuccin.ts",
+		"/D/coding/sandbox/designs/fluid-table/src/scripts/themes/ayu.ts",
+		"/D/coding/sandbox/designs/fluid-table/src/scripts/themes/theme.ts",
+		"/D/coding/sandbox/designs/fluid-table/src/scripts/ayu.ts",
+		"/D/coding/sandbox/designs/fluid-table/src/scripts/base.ts",
+		"/D/coding/sandbox/designs/fluid-table/src/styles/themes.css",
+		"/D/coding/sandbox/designs/fluid-table/node_modules/ayu/dist/color.d.ts",
+		"/D/coding/sandbox/designs/fluid-table/src/scripts/theme-controls.ts",
+		"/D/coding/sandbox/designs/fluid-table/src/scripts",
+		"/C/Users/Olatunde/AppData/Roaming/Sublime Text/Packages/User/JsPrettier.sublime-settings",
+		"/D/coding/sandbox/designs/fluid-table/src/styles/landing/stage.css",
+		"/D/coding/sandbox/designs/fluid-table/src/styles/hero.css",
+		"/D/coding/sandbox/designs/fluid-table/src/styles/table.css",
+		"/D/coding/sandbox/designs/fluid-table/src/styles/navbar.css",
+		"/D/coding/sandbox/designs/fluid-table/package-lock.json",
+		"/D/coding/sandbox/designs/fluid-table/.gitignore",
+		"/D/coding/sandbox/designs/fluid-table/fluid-table.sublime-workspace",
+		"/D/coding/sandbox/designs/malleable-table/src/styles/navbar.css",
+		"/D/coding/sandbox/designs/malleable-table/index.html",
+		"/D/coding/sandbox/designs/malleable-table/node_modules/@catppuccin/palette/css/catppuccin.css",
+		"/D/coding/sandbox/designs/malleable-table/public/favicon.svg",
+		"/D/coding/sandbox/designs/malleable-table/src/styles/base.css",
+		"/D/coding/sandbox/designs/malleable-table/src/styles/hero.css",
+		"/D/coding/sandbox/designs/malleable-table/src/main.ts",
+		"/D/coding/sandbox/designs/malleable-table/src/style.css",
+		"/D/coding/sandbox/designs/malleable-table/src/styles/catppuccin.css",
+		"/D/coding/sandbox/designs/malleable-table/malleable-table.sublime-project",
+		"/D/coding/sandbox/designs/borderline/borderline.sublime-project",
+		"/D/coding/sandbox/designs/malleable-table/src/styles/color-scheme.css",
+		"/D/coding/sandbox/designs/malleable-table/public/assets/fonts/Inter/Inter.css",
+		"/D/coding/sandbox/designs/borderline/public/css/preflight.css",
+		"/D/coding/sandbox/designs/malleable-table/public/assets/css/preflight.css",
+		"/D/coding/sandbox/designs/borderline/public/assets/fonts/Montserrat/Montserrat.css",
+		"/D/coding/sandbox/designs/borderline/src/styles/base.css",
+		"/D/coding/sandbox/sqlite/maiden/customer-names.txt",
+		"/D/coding/sandbox/nicn-ems/nicn-ems.sublime-project",
+		"/C/Users/Olatunde/Desktop/komorebi.ahk",
+		"/C/Users/Olatunde/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup/komorebi.ahk",
+		"/D/coding/sandbox/nicn-ems/src/extracted/test-file.txt",
+		"/D/coding/sandbox/nicn-ems/src/index.ts",
+		"/D/coding/sandbox/nicn-ems/src/extracted-text",
+		"/D/coding/sandbox/nicn-ems/test.csv",
+		"/D/coding/sandbox/nicn-ems/deno.json",
+		"/D/coding/sandbox/nicn-ems/main.ts",
+		"/D/coding/sandbox/deno/maiden/maiden.sublime-project",
+		"/D/coding/sandbox/deno/maiden/src/main.ts",
+		"/D/coding/sandbox/deno/maiden/src/regex-stuff.ts",
+		"/D/coding/sandbox/deno/maiden/NOTES.md",
+		"/D/coding/sandbox/deno/maiden/src/main.test.ts",
+		"/D/coding/sandbox/deno/maiden/src/hello_world.ts",
+		"/D/coding/sandbox/deno/maiden/deno.jsonc",
+		"/D/coding/sandbox/deno/maiden/src/concurency.test.ts",
+		"/D/coding/sandbox/deno/maiden/src/arithmetic.bench.ts",
+		"/D/coding/sandbox/deno/maiden/src/arithmetic.test.ts",
+		"/D/coding/sandbox/deno/maiden/src/arithmetic.ts",
+		"/D/coding/sandbox/deno/maiden/arithmetic.test.ts",
+		"/D/coding/sandbox/deno/maiden/ghoul/arithmetic.test.ts",
+		"/D/coding/sandbox/deno/maiden/deno-maiden.sublime-project",
+		"/D/coding/sandbox/designs/border-line/index.html",
+		"/D/coding/sandbox/deno/maiden/deno.json",
+		"/D/coding/sandbox/deno/maiden/main.test.ts",
+		"/D/coding/sandbox/deno/maiden/arithmetic.ts",
+		"/D/coding/sandbox/deno/maiden/main.ts",
+		"/D/coding/sandbox/deno/maiden/test.ts",
+		"/C/Users/Olatunde/AppData/Local/deno/gen/file/D/Coding/fyp/src/index.ts.js",
+		"/D/coding/sandbox/deno/maiden/main.tsx",
+		"/D/coding/sandbox/deno/maiden/test-project.sublime-project",
+		"/D/coding/sandbox/deno/maiden/main_test.ts",
+		"/D/coding/dsa/clrs/README.md",
+		"/D/coding/dsa/clrs/index.ts",
+		"/D/coding/dsa/clrs/package.json",
+		"/D/coding/sandbox/designs/border-line/src/style.css",
+		"/D/coding/sandbox/designs/border-line/src/main.ts",
+		"/D/coding/sandbox/designs/border-line/public/fonts/Montserrat/Montserrat.css",
+		"/D/coding/sandbox/designs/border-line/public/fonts/Lato/Lato.css",
+		"/D/coding/sandbox/designs/border-line/package.json",
+		"/D/coding/sandbox/designs/border-line/public/css/preflight.css",
+		"/D/coding/sandbox/designs/border-line/src/modern-normalize.min.css",
+		"/D/coding/sandbox/designs/README.md",
+		"/D/coding/sandbox/designs/index.html",
+		"/D/coding/sandbox/designs/border-line/main.css",
+		"/D/coding/sandbox/web-designs/space-ghoul/NOTES.md",
+		"/D/coding/sandbox/web-designs/space-ghoul/index.html",
+		"/D/coding/sandbox/web-designs/space-ghoul/src/style.tailwind.css",
+		"/C/Users/Olatunde/komorebi.json",
+		"/C/Users/Olatunde/.config/whkdrc",
+		"/D/coding/sandbox/web-designs/space-ghoul/component/basic-btn-card.html",
+		"/D/coding/sandbox/web-designs/space-ghoul/tailwind.config.js",
+		"/D/coding/sandbox/web-designs/space-ghoul/prettier.config.js",
+		"/D/coding/sandbox/web-designs/space-ghoul/package.json",
+		"/D/coding/sandbox/web-designs/space-ghoul/src/main.ts",
+		"/D/coding/sandbox/web-designs/space-ghoul/src/style.css"
+	],
+	"find":
+	{
+		"height": 27.2
+	},
+	"find_in_files":
+	{
+		"height": 243.2,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"index",
+			"string",
+			"width",
+			"row",
+			"width",
+			"resize",
+			"size",
+			"dimensions",
+			"width",
+			"size",
+			"row",
+			"elements",
+			"table",
+			"CURSOR",
+			"col",
+			"false",
+			"bottomEdge",
+			"phone",
+			"add",
+			"thead",
+			"map",
+			"td",
+			"createAttribute",
+			"STATUS",
+			"person",
+			"firstName",
+			",",
+			"table",
+			"<!",
+			"NAVHERBAR",
+			"---NAVHERBAR------------------------------------------------------------------",
+			"--theme-subtext",
+			"landing",
+			"-      ",
+			"landing",
+			"section",
+			"number",
+			"rows",
+			"model",
+			"              ",
+			"Message",
+			"selections",
+			"row",
+			"rowIndex",
+			"i",
+			"{\n    rows: string[];\n    cols: string[];\n  }",
+			"rows",
+			": ",
+			"head",
+			"cell",
+			"true",
+			"3000",
+			"600px",
+			"ts",
+			"index",
+			"row",
+			"testModel",
+			"col",
+			"col.index",
+			"row.index",
+			"index",
+			"Create",
+			"CM",
+			"900px",
+			"900",
+			"300px",
+			"100",
+			"500px",
+			"CC",
+			"CR",
+			"CH",
+			"SC",
+			"SR",
+			"SD",
+			"MC",
+			"MR",
+			"moveItem",
+			"rows",
+			"array",
+			"M",
+			"reducer",
+			"array",
+			"data",
+			"true",
+			"row",
+			"CursorRemoveAll",
+			"deselect",
+			"indexindex",
+			"col",
+			"move",
+			"selected",
+			"deselect",
+			"place",
+			"toIndex",
+			"number",
+			"fromIndex",
+			"any",
+			"() => ",
+			"nanoid()",
+			"string",
+			"size",
+			"index",
+			"rows",
+			"newArray",
+			"{ size: number; selected: boolean; cursor: boolean }",
+			"data",
+			"index",
+			"CreateMessage",
+			"index",
+			"col",
+			"newModel",
+			"size",
+			"widtdh",
+			"height",
+			"width",
+			"height",
+			"row",
+			"place",
+			"SelectHide",
+			"Cursor",
+			"cursor",
+			"case",
+			"{ uid: string, index: number }",
+			"SelectModel",
+			"if (name ===",
+			"name",
+			"else if (name === ",
+			"height"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.2
+	},
+	"input":
+	{
+		"height": 121.2
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.Terminus":
+	{
+		"height": 150.0
+	},
+	"output.diagnostics":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups-dummy":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "cleaning.sublime-project",
+	"replace":
+	{
+		"height": 51.2
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"demo.",
+				"src\\styles\\landing\\demo.css"
+			],
+			[
+				"main",
+				"src\\main.ts"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"demo",
+				"src\\styles\\landing\\demo.css"
+			],
+			[
+				"demo.c",
+				"src\\styles\\landing\\demo.css"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"cat",
+				"node_modules\\@catppuccin\\palette\\css\\catppuccin.css"
+			],
+			[
+				"theme",
+				"src\\scripts\\theme.ts"
+			],
+			[
+				"thea",
+				"src\\styles\\landing\\theatre.css"
+			],
+			[
+				"nav",
+				"src\\styles\\landing\\navbar.css"
+			],
+			[
+				"hero",
+				"src\\styles\\landing\\hero.css"
+			],
+			[
+				"landin",
+				"src\\styles\\landing.css"
+			],
+			[
+				"style",
+				"src\\style.css"
+			],
+			[
+				"the",
+				"src\\styles\\landing\\theatre.css"
+			],
+			[
+				"na",
+				"src\\styles\\landing\\navbar.css"
+			],
+			[
+				"base",
+				"src\\styles\\base.css"
+			],
+			[
+				"idnex",
+				"index.html"
+			],
+			[
+				"model",
+				"src\\scripts\\model.ts"
+			],
+			[
+				"view",
+				"src\\scripts\\view.ts"
+			],
+			[
+				"render",
+				"src\\scripts\\render.ts"
+			],
+			[
+				"s",
+				"src\\style.css"
+			],
+			[
+				"upda",
+				"src\\scripts\\update.ts"
+			],
+			[
+				"array",
+				"src\\scripts\\utilities\\array.ts"
+			],
+			[
+				"type",
+				"src\\scripts\\types.ts"
+			],
+			[
+				"table.ts",
+				"src\\scripts\\table.ts"
+			],
+			[
+				"arra",
+				"src\\scripts\\utilities\\array.ts"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"tsconf",
+				"tsconfig.json"
+			],
+			[
+				"tab",
+				"src\\scripts\\table.ts"
+			],
+			[
+				"typ",
+				"node_modules\\picocolors\\types.ts"
+			],
+			[
+				"table",
+				"src\\scripts\\table.ts"
+			],
+			[
+				"table.t",
+				"src\\scripts\\table.ts"
+			],
+			[
+				"index.",
+				"index.html"
+			],
+			[
+				"html",
+				"index.html"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"stl",
+				"src\\style.css"
+			],
+			[
+				"st",
+				"src\\style.css"
+			],
+			[
+				"styl",
+				"src\\style.css"
+			],
+			[
+				"main.ts",
+				"src\\main.ts"
+			],
+			[
+				"navba",
+				"src\\styles\\landing\\navbar.css"
+			],
+			[
+				"ayu",
+				"src\\scripts\\ayu.ts"
+			],
+			[
+				"navbar",
+				"src\\styles\\landing\\navbar.css"
+			],
+			[
+				"lan",
+				"src\\styles\\landing.css"
+			],
+			[
+				"stage",
+				"src\\styles\\landing\\stage.css"
+			],
+			[
+				"stag",
+				"src\\styles\\landing\\stage.css"
+			],
+			[
+				"navb",
+				"src\\styles\\landing\\navbar.css"
+			],
+			[
+				"ca",
+				"node_modules\\@catppuccin\\palette\\css\\catppuccin.css"
+			],
+			[
+				"sta",
+				"src\\styles\\landing\\stage.css"
+			],
+			[
+				"",
+				"src\\styles\\landing\\navbar.css"
+			],
+			[
+				"he",
+				"src\\styles\\hero.css"
+			],
+			[
+				"bas",
+				"src\\styles\\base.css"
+			],
+			[
+				"hero.c",
+				"src\\styles\\hero.css"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"ba",
+				"src\\styles\\base.css"
+			],
+			[
+				"nab",
+				"src\\styles\\navbar.css"
+			],
+			[
+				"catpp",
+				"node_modules\\@catppuccin\\palette\\css\\catppuccin.css"
+			],
+			[
+				"cap",
+				"src\\styles\\catppuccin.css"
+			],
+			[
+				"sy",
+				"src\\style.css"
+			],
+			[
+				"fa",
+				"public\\favicon.svg"
+			],
+			[
+				"ain",
+				"src\\main.ts"
+			],
+			[
+				"min",
+				"src\\main.ts"
+			],
+			[
+				"mian.ts",
+				"src\\main.test.ts"
+			],
+			[
+				"not",
+				"NOTES.md"
+			],
+			[
+				"deno",
+				"deno.jsonc"
+			],
+			[
+				"deno.",
+				"deno.jsonc"
+			],
+			[
+				"ar",
+				"src\\arithmetic.bench.ts"
+			],
+			[
+				"arti",
+				"src\\arithmetic.ts"
+			],
+			[
+				"test",
+				"test.ts"
+			],
+			[
+				"main.",
+				"maiden\\main.ts"
+			],
+			[
+				"R",
+				"README.md"
+			],
+			[
+				"mont",
+				"public\\fonts\\Montserrat\\Montserrat.css"
+			],
+			[
+				"Lato",
+				"public\\fonts\\Lato\\Lato.css"
+			],
+			[
+				"mai",
+				"src\\main.ts"
+			],
+			[
+				"note",
+				"NOTES.md"
+			],
+			[
+				"stly",
+				"src\\style.tailwind.css"
+			],
+			[
+				"style.",
+				"src\\style.css"
+			],
+			[
+				"clientrequets",
+				"src\\routes\\dashboard\\tailor\\client-requests.ts"
+			],
+			[
+				"tailorrespnjk",
+				"src\\views\\pages\\dashboard\\client\\tailor-responses.njk"
+			],
+			[
+				"tailorrespon",
+				"src\\routes\\dashboard\\client\\tailor-responses.ts"
+			],
+			[
+				"clientresnjk",
+				"src\\views\\pages\\dashboard\\tailor\\client-requests.njk"
+			],
+			[
+				"tailorclientre",
+				"src\\routes\\dashboard\\tailor\\client-requests.ts"
+			],
+			[
+				"orders.njk",
+				"src\\views\\pages\\dashboard\\tailor\\orders.njk"
+			],
+			[
+				"orders.ts",
+				"src\\routes\\dashboard\\tailor\\orders.ts"
+			],
+			[
+				"clientre",
+				"src\\routes\\dashboard\\tailor\\client-requests.ts"
+			],
+			[
+				"tailorrespons",
+				"src\\routes\\dashboard\\tailor\\tailor-responses.ts"
+			],
+			[
+				"tailorresponse.n",
+				"src\\views\\pages\\dashboard\\tailor\\tailor-responses.njk"
+			],
+			[
+				"clientres",
+				"src\\routes\\dashboard\\client\\client-requests.ts"
+			],
+			[
+				"tailoresp",
+				"src\\routes\\dashboard\\client\\tailor-responses.ts"
+			],
+			[
+				"tailor-responts",
+				"src\\routes\\dashboard\\client\\tailor-responses.ts"
+			],
+			[
+				"clientre.njk",
+				"src\\views\\pages\\dashboard\\tailor\\client-requests.njk"
+			],
+			[
+				"tailor-resp",
+				"src\\routes\\dashboard\\client\\tailor-responses.ts"
+			],
+			[
+				"TailorRe",
+				"src\\models\\TailorResponse.ts"
+			],
+			[
+				"tailor-response",
+				"src\\routes\\dashboard\\client\\tailor-responses.ts"
+			],
+			[
+				"client-resnjk",
+				"src\\views\\pages\\dashboard\\tailor\\client-requests.njk"
+			],
+			[
+				"client-reques",
+				"src\\routes\\dashboard\\tailor\\client-requests.ts"
+			],
+			[
+				"tailor.ts",
+				"src\\routes\\dashboard\\tailor.ts"
+			],
+			[
+				"dashboard.ts",
+				"src\\routes\\dashboard.ts"
+			],
+			[
+				"reviews",
+				"src\\routes\\dashboard\\client\\reviews.ts"
+			],
+			[
+				"tailor\\profile",
+				"src\\views\\pages\\dashboard\\tailor\\profile.njk"
+			],
+			[
+				"tailorprofi",
+				"src\\views\\pages\\dashboard\\tailor\\profile.njk"
+			],
+			[
+				"profile.njk",
+				"src\\views\\pages\\dashboard\\client\\profile.njk"
+			],
+			[
+				"profile",
+				"src\\routes\\dashboard\\client\\profile.ts"
+			],
+			[
+				"Order",
+				"src\\models\\Order.ts"
+			],
+			[
+				"mockm",
+				"src\\models\\mock-models.ts"
+			],
+			[
+				"home.nj",
+				"src\\views\\pages\\dashboard\\tailor\\home.njk"
+			],
+			[
+				"home.njk",
+				"src\\views\\pages\\dashboard\\client\\home.njk"
+			],
+			[
+				"mock",
+				"src\\models\\mock-models.ts"
+			],
+			[
+				"create-m",
+				"src\\scripts\\create-mocks.ts"
+			],
+			[
+				"fetch",
+				"src\\scripts\\fetch.ts"
+			],
+			[
+				"Order.ts",
+				"src\\models\\Order.ts"
+			],
+			[
+				"date.ts",
+				"src\\utils\\date.ts"
+			],
+			[
+				"test.ts",
+				"src\\scripts\\test.ts"
+			],
+			[
+				"date.",
+				"src\\utils\\date.ts"
+			],
+			[
+				"tailorhome.ts",
+				"src\\routes\\dashboard\\tailor\\home.ts"
+			],
+			[
+				"tailorres",
+				"src\\routes\\dashboard\\client\\tailor-responses.ts"
+			],
+			[
+				"mock-mod",
+				"src\\models\\mock-models.ts"
+			],
+			[
+				"TailorResp",
+				"src\\models\\TailorResponse.ts"
+			],
+			[
+				"ClientRe",
+				"src\\models\\ClientRequest.ts"
+			],
+			[
+				"dashboard.",
+				"src\\routes\\dashboard.ts"
+			],
+			[
+				"home.ts",
+				"src\\routes\\dashboard\\client\\home.ts"
+			],
+			[
+				"clien-t",
+				"src\\routes\\dashboard\\client\\client-requests.ts"
+			],
+			[
+				"viewres",
+				"src\\views\\pages\\dashboard\\client\\client-requests\\view-request.njk"
+			],
+			[
+				"view-respe",
+				"src\\views\\pages\\dashboard\\client\\tailor-responses\\view-response.njk"
+			],
+			[
+				"tailor-respon",
+				"src\\views\\pages\\dashboard\\client\\tailor-responses.njk"
+			],
+			[
+				"tailor-re",
+				"src\\views\\pages\\dashboard\\client\\tailor-responses.njk"
+			],
+			[
+				"TailorRes",
+				"src\\models\\TailorResponse.ts"
+			],
+			[
+				"client-res",
+				"src\\routes\\dashboard\\client\\client-requests.ts"
+			],
+			[
+				"reviews.njk",
+				"src\\views\\pages\\dashboard\\client\\reviews.njk"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 465.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\coding\\sandbox\\designs\\borderline\\borderline.sublime-project"
+			]
+		],
+		"width": 485.0
+	},
+	"select_symbol":
+	{
+		"height": 334.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 418.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 301.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,6 @@
+{
+  "ignore": [],
+  "execMap": {
+    "ts": "tsx"
+  }
+}

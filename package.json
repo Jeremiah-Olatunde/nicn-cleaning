@@ -1,0 +1,28 @@
+{
+  "name": "cleaning",
+  "version": "0.0.0",
+  "description": "processing and cleaning nicn data",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeremiah-Olatunde/nicn-cleaning.git"
+  },
+  "keywords": [
+    "nicn",
+    "csv",
+    "data-cleaning"
+  ],
+  "author": "Jesuseun Jeremiah Olatunde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeremiah-Olatunde/nicn-cleaning/issues"
+  },
+  "homepage": "https://github.com/Jeremiah-Olatunde/nicn-cleaning#readme",
+  "dependencies": {
+    "@types/node": "^20.14.9",
+    "csv": "^6.3.9"
+  }
+}

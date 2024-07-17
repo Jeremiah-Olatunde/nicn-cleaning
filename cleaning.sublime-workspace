@@ -4,6 +4,66 @@
 		"selected_items":
 		[
 			[
+				"to",
+				"toLowerCase"
+			],
+			[
+				"origin",
+				"origin_state"
+			],
+			[
+				"orgi",
+				"origin_state"
+			],
+			[
+				"isSta",
+				"isStateLGA"
+			],
+			[
+				"isS",
+				"isState"
+			],
+			[
+				"Sta",
+				"StateLGA"
+			],
+			[
+				"app",
+				"appointment_date_present"
+			],
+			[
+				"Valid",
+				"ValidatorObj"
+			],
+			[
+				"va",
+				"validator"
+			],
+			[
+				"keyf",
+				"keyof"
+			],
+			[
+				"valida",
+				"Validator"
+			],
+			[
+				"Par",
+				"Partial"
+			],
+			[
+				"dir",
+				"directory"
+			],
+			[
+				"resolv",
+				"resolve"
+			],
+			[
+				"parse",
+				"parse"
+			],
+			[
 				"HTMLTableC",
 				"HTMLTableCellElement"
 			],
@@ -62,10 +122,6 @@
 			[
 				"crea",
 				"createElement"
-			],
-			[
-				"app",
-				"appendChild"
 			],
 			[
 				"appedn",
@@ -238,10 +294,6 @@
 			[
 				"n",
 				":nth-of-type()"
-			],
-			[
-				"parse",
-				"parseInt"
 			],
 			[
 				"tab",
@@ -462,63 +514,22 @@
 			[
 				"expo",
 				"exponentiate"
-			],
-			[
-				"fn",
-				"fn(t) {\n  $0\n},"
-			],
-			[
-				"di",
-				"divisor"
-			],
-			[
-				"sub",
-				"subtrahend"
-			],
-			[
-				"mul",
-				"multiplier"
-			],
-			[
-				"font",
-				"font-size"
-			],
-			[
-				"font-z",
-				"font-size"
-			],
-			[
-				"ctp-latt",
-				"--ctp-latte-red"
-			],
-			[
-				"border-b",
-				"border-bottom"
-			],
-			[
-				"box-s",
-				"box-sizing"
-			],
-			[
-				"--ctp-latte-s",
-				"--ctp-latte-sky"
-			],
-			[
-				"grid-rw",
-				"grid-row"
-			],
-			[
-				"gridcol",
-				"grid-column"
-			],
-			[
-				"grid-templ",
-				"grid-template-rows"
 			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 689,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -531,6 +542,86 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"prett",
+				"JsPrettier: Format Code"
+			],
+			[
+				"prettier",
+				"JsPrettier: Format Code"
+			],
+			[
+				"new",
+				"File: New File"
+			],
+			[
+				"preto",
+				"JsPrettier: Format Code"
+			],
+			[
+				"align",
+				"Rainbow CSV: Align CSV columns with spaces"
+			],
+			[
+				"jus",
+				"Preferences: JsPrettier Settings - User"
+			],
+			[
+				"csv ",
+				"Rainbow CSV: Shrink CSV table by trimming spaces from fields"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"aligh",
+				"Rainbow CSV: Align CSV columns with spaces"
+			],
+			[
+				"disable pa",
+				"Package Control: Disable Package"
+			],
+			[
+				"csv cm",
+				"CSV: Compact columns"
+			],
+			[
+				"enable pac",
+				"Package Control: Enable Package"
+			],
+			[
+				"csv com",
+				"Rainbow CSV: Shrink CSV table by trimming spaces from fields"
+			],
+			[
+				"raind",
+				"Rainbow CSV: Enable Quoted"
+			],
+			[
+				"csv",
+				"Rainbow CSV: Align CSV columns with spaces"
+			],
+			[
+				"enable pa",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"jsut",
+				"CSV: Justify columns"
+			],
+			[
+				"csv tr",
+				"CSV: Delete empty trailing columns"
+			],
+			[
+				"just",
+				"CSV: Justify columns"
+			],
+			[
+				"enable",
+				"LSP: Enable Language Server in Project"
+			],
 			[
 				"pro",
 				"Project: Save As"
@@ -632,20 +723,12 @@
 				"LSP: Enable Language Server in Project"
 			],
 			[
-				"csv",
-				"CSV: Justify columns"
-			],
-			[
 				"langua",
 				"LSP: Disable Language Server in Project"
 			],
 			[
 				"dele",
 				"File: Delete"
-			],
-			[
-				"new",
-				"File: New File"
 			],
 			[
 				"edit",
@@ -782,10 +865,6 @@
 			[
 				"LSP",
 				"LSP: Enable Language Server in Project"
-			],
-			[
-				"prettier",
-				"JsPrettier: Format Code"
 			],
 			[
 				"in",
@@ -974,34 +1053,6 @@
 			[
 				"prefere",
 				"Preferences: Key Bindings"
-			],
-			[
-				"side",
-				"View: Toggle Open Files in Side Bar"
-			],
-			[
-				"remov",
-				"Package Control: Remove Package"
-			],
-			[
-				"REPL:Node",
-				"SublimeREPL: Node"
-			],
-			[
-				"REPL",
-				"SublimeREPL: Haskell"
-			],
-			[
-				"pref",
-				"Preferences: LSP-typescript Settings"
-			],
-			[
-				"prefer",
-				"Preferences: LSP-typescript Settings"
-			],
-			[
-				"instal",
-				"Package Control: Install Package"
 			]
 		],
 		"width": 0.0
@@ -1025,10 +1076,28 @@
 	},
 	"expanded_folders":
 	[
-		"/D/coding/projects/nicn/cleaning"
+		"/D/coding/projects/nicn/cleaning",
+		"/D/coding/projects/nicn/cleaning/src"
 	],
 	"file_history":
 	[
+		"/D/coding/projects/nicn/cleaning/src/data/raw/nigerian-states.ts",
+		"/D/coding/projects/nicn/cleaning/src/index.ts",
+		"/D/coding/projects/nicn/cleaning/src/data/raw/nr-100.csv",
+		"/D/coding/projects/nicn/cleaning/src/validate-states-lga.ts",
+		"/D/coding/projects/nicn/cleaning/src/validate.ts",
+		"/D/coding/projects/nicn/cleaning/src/data/validate.ts",
+		"/D/coding/projects/nicn/cleaning/src/data/raw/nigerian-states.json",
+		"/D/coding/projects/nicn/cleaning/src/data/raw/nr-10.csv",
+		"/D/coding/projects/nicn/cleaning/src/data/raw/nr.csv",
+		"/C/Users/Olatunde/AppData/Roaming/Sublime Text/Packages/User/JsPrettier.sublime-settings",
+		"/D/coding/projects/nicn/cleaning/package.json",
+		"/D/coding/projects/nicn/cleaning/.gitignore",
+		"/D/coding/projects/dtms/.gitignore",
+		"/D/coding/projects/nicn/cleaning/tsconfig.json",
+		"/D/coding/projects/dtms/tsconfig.json",
+		"/D/coding/projects/nicn/cleaning/README.md",
+		"/D/coding/projects/nicn/cleaning/nodemon.json",
 		"/D/coding/sandbox/designs/fluid-table/index.html",
 		"/D/coding/sandbox/designs/fluid-table/src/scripts/mock-table.ts",
 		"/D/coding/sandbox/designs/fluid-table/src/main.ts",
@@ -1058,7 +1127,6 @@
 		"/D/coding/sandbox/designs/fluid-table/node_modules/picocolors/types.ts",
 		"/D/coding/sandbox/designs/fluid-table/src/utilities/array.ts",
 		"/D/coding/sandbox/designs/fluid-table/src/table.ts",
-		"/D/coding/projects/dtms/tsconfig.json",
 		"/D/coding/sandbox/designs/fluid-table/src/types.ts",
 		"/D/coding/sandbox/designs/fluid-table/src/utilities/random.ts",
 		"/D/coding/dsa/algorithms/src/utilities/array.ts",
@@ -1074,7 +1142,6 @@
 		"/D/coding/sandbox/designs/fluid-table/node_modules/ayu/dist/color.d.ts",
 		"/D/coding/sandbox/designs/fluid-table/src/scripts/theme-controls.ts",
 		"/D/coding/sandbox/designs/fluid-table/src/scripts",
-		"/C/Users/Olatunde/AppData/Roaming/Sublime Text/Packages/User/JsPrettier.sublime-settings",
 		"/D/coding/sandbox/designs/fluid-table/src/styles/landing/stage.css",
 		"/D/coding/sandbox/designs/fluid-table/src/styles/hero.css",
 		"/D/coding/sandbox/designs/fluid-table/src/styles/table.css",
@@ -1141,26 +1208,11 @@
 		"/D/coding/sandbox/designs/border-line/public/fonts/Montserrat/Montserrat.css",
 		"/D/coding/sandbox/designs/border-line/public/fonts/Lato/Lato.css",
 		"/D/coding/sandbox/designs/border-line/package.json",
-		"/D/coding/sandbox/designs/border-line/public/css/preflight.css",
-		"/D/coding/sandbox/designs/border-line/src/modern-normalize.min.css",
-		"/D/coding/sandbox/designs/README.md",
-		"/D/coding/sandbox/designs/index.html",
-		"/D/coding/sandbox/designs/border-line/main.css",
-		"/D/coding/sandbox/web-designs/space-ghoul/NOTES.md",
-		"/D/coding/sandbox/web-designs/space-ghoul/index.html",
-		"/D/coding/sandbox/web-designs/space-ghoul/src/style.tailwind.css",
-		"/C/Users/Olatunde/komorebi.json",
-		"/C/Users/Olatunde/.config/whkdrc",
-		"/D/coding/sandbox/web-designs/space-ghoul/component/basic-btn-card.html",
-		"/D/coding/sandbox/web-designs/space-ghoul/tailwind.config.js",
-		"/D/coding/sandbox/web-designs/space-ghoul/prettier.config.js",
-		"/D/coding/sandbox/web-designs/space-ghoul/package.json",
-		"/D/coding/sandbox/web-designs/space-ghoul/src/main.ts",
-		"/D/coding/sandbox/web-designs/space-ghoul/src/style.css"
+		"/D/coding/sandbox/designs/border-line/public/css/preflight.css"
 	],
 	"find":
 	{
-		"height": 27.2
+		"height": 70.0
 	},
 	"find_in_files":
 	{
@@ -1174,6 +1226,47 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"Girei",
+			"[A-Z][a-z]+('[A-Z]?[a-z]+)?",
+			"('[A-Z]?[a-z]+)?",
+			"Adua",
+			"//",
+			"jaba",
+			"lga",
+			"\",\n",
+			"Oruko",
+			"Odual",
+			"lga",
+			"label",
+			"cleanedState",
+			"Jaba",
+			"Ide",
+			"Orhionmwon",
+			"Orhiomwon",
+			"Benin",
+			"Ibadan",
+			"],",
+			"as const",
+			"data",
+			"],",
+			"import",
+			"string",
+			"NR",
+			"validator",
+			"record[column]",
+			"FieldError",
+			"column",
+			"gender",
+			":",
+			"nrValidator",
+			"column",
+			"qualifications",
+			",",
+			"soruce",
+			"date",
+			"lgaOrigin",
+			"status",
+			"marrital",
 			"index",
 			"string",
 			"width",
@@ -1260,48 +1353,7 @@
 			"true",
 			"row",
 			"CursorRemoveAll",
-			"deselect",
-			"indexindex",
-			"col",
-			"move",
-			"selected",
-			"deselect",
-			"place",
-			"toIndex",
-			"number",
-			"fromIndex",
-			"any",
-			"() => ",
-			"nanoid()",
-			"string",
-			"size",
-			"index",
-			"rows",
-			"newArray",
-			"{ size: number; selected: boolean; cursor: boolean }",
-			"data",
-			"index",
-			"CreateMessage",
-			"index",
-			"col",
-			"newModel",
-			"size",
-			"widtdh",
-			"height",
-			"width",
-			"height",
-			"row",
-			"place",
-			"SelectHide",
-			"Cursor",
-			"cursor",
-			"case",
-			"{ uid: string, index: number }",
-			"SelectModel",
-			"if (name ===",
-			"name",
-			"else if (name === ",
-			"height"
+			"deselect"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1323,12 +1375,46 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 689,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								160,
+								160
+							]
+						],
+						"settings":
+						{
+							"lsp_uri": "file:///D:/coding/projects/nicn/cleaning/package.json",
+							"rainbow_checked": true,
+							"syntax": "Packages/JSON/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 27.2
+		"height": 33.6
 	},
 	"input":
 	{
@@ -1385,7 +1471,7 @@
 	"project": "cleaning.sublime-project",
 	"replace":
 	{
-		"height": 51.2
+		"height": 64.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1394,6 +1480,38 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"val",
+				"src\\validate.ts"
+			],
+			[
+				"states",
+				"src\\data\\raw\\nigerian-states.ts"
+			],
+			[
+				"nr-",
+				"src\\data\\raw\\nr-100.csv"
+			],
+			[
+				"nr",
+				"src\\data\\raw\\nr.csv"
+			],
+			[
+				"nr-1",
+				"src\\data\\raw\\nr-10.csv"
+			],
+			[
+				"ind",
+				"src\\index.ts"
+			],
+			[
+				"inde",
+				"src\\index.ts"
+			],
 			[
 				"demo.",
 				"src\\styles\\landing\\demo.css"
@@ -1413,10 +1531,6 @@
 			[
 				"demo.c",
 				"src\\styles\\landing\\demo.css"
-			],
-			[
-				"inde",
-				"index.html"
 			],
 			[
 				"cat",
@@ -1529,10 +1643,6 @@
 			[
 				"html",
 				"index.html"
-			],
-			[
-				"packa",
-				"package.json"
 			],
 			[
 				"stl",
@@ -1881,30 +1991,6 @@
 			[
 				"viewres",
 				"src\\views\\pages\\dashboard\\client\\client-requests\\view-request.njk"
-			],
-			[
-				"view-respe",
-				"src\\views\\pages\\dashboard\\client\\tailor-responses\\view-response.njk"
-			],
-			[
-				"tailor-respon",
-				"src\\views\\pages\\dashboard\\client\\tailor-responses.njk"
-			],
-			[
-				"tailor-re",
-				"src\\views\\pages\\dashboard\\client\\tailor-responses.njk"
-			],
-			[
-				"TailorRes",
-				"src\\models\\TailorResponse.ts"
-			],
-			[
-				"client-res",
-				"src\\routes\\dashboard\\client\\client-requests.ts"
-			],
-			[
-				"reviews.njk",
-				"src\\views\\pages\\dashboard\\client\\reviews.njk"
 			]
 		],
 		"width": 0.0
@@ -1938,8 +2024,8 @@
 	"show_minimap": false,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": false,
-	"side_bar_width": 301.0,
+	"side_bar_visible": true,
+	"side_bar_width": 191.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
